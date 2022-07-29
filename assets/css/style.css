@@ -1035,12 +1035,12 @@ label small{
     margin-bottom: 20px;
     text-transform: uppercase;color: rgb(255 255 255);
     font-weight: 500;
-    text-shadow: rgb(255 255 255);
+    text-shadow: 1px 1px 2px black;
 }
 .slider-content p {
     font-size: 14px;
     margin-bottom: 60px;
-    color: rgb(110, 110, 110);
+    color: rgb(255 254 254);
 }
 
 .slider .owl-theme .owl-controls {
