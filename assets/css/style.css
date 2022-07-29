@@ -1946,7 +1946,7 @@ single property page
     text-align: center;
 }
 .single-property-content .lSSlideOuter .lSPager {
-    display: inline-block;
+    display: none;
 }
 .single-property-content .lSSlideOuter .lSPager li.active, .single-property-content .lSSlideOuter .lSPager li:hover {
     border-radius: 0px;
