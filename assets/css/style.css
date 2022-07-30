@@ -1879,10 +1879,11 @@ proerty-th-list
     border-color: #3F3F3F;
     background-color: #444343;
     color: #FFF;
+    display: none;
 }
 .page-subheader .sort-by-list li a {
     position: relative;
-    display: block;
+    display: none;
     padding: 2px 7px;
     background-color: #F4F4F4;
     border-width: 1px;
@@ -1891,7 +1892,7 @@ proerty-th-list
     color: #414040;
 }
 .page-subheader .items-per-page {
-    display: inline-block; 
+    display: none; 
     vertical-align: top;
     text-align: right;
 }
