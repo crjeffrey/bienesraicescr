@@ -2922,15 +2922,15 @@ ul.footer-blog li {
     font-size: 13px;
     text-transform: capitalize;
     font-weight: 600; 
-    color: #FFA600;
+    color: #FF0000;
 }
 .footer-blog .blg-entry h6 {
     padding: 2px 0px;
     margin: 0px;
 }
 .footer-blog .blg-date {
-    color: #FFF;
-    background-color: #AD7206;
+    color: #F000;
+    background-color: #FF000000;
     padding: 2px 3px;
     font-size: 11px;
     position: relative;
