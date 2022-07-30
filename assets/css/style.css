@@ -1731,7 +1731,7 @@ proerty-th
 }
 .properties-page .proerty-th .proerty-price{
     font-weight: 600;
-    color: #FDC600;
+    color: #FF0000;
 }
 .proerty-th .proerty-item  .item-entry h5{
     text-transform: uppercase;
@@ -1841,7 +1841,7 @@ proerty-th-list
 
 .proerty-th-list .proerty-price{
     font-weight: 600;
-    color: #FDC600;
+    color: #FF0000;
     font-size: 25px;
 }
 .property-icon {
@@ -2911,7 +2911,7 @@ font-size: 13px;
 ul.footer-blog li {
     width: 100%;
     display: table;
-    margin-bottom: -20px;
+    margin-bottom: 15px;
 }
 .footer-blog img {
     width: 100%; 
@@ -3054,3 +3054,10 @@ padding: 10px;
 #map {
     height: 300px;
 }
+
+.fa-th:before {
+    content: "\f00a";
+    color: red;
+}
+
+
