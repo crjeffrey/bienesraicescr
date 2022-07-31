@@ -412,7 +412,7 @@ input[type="search"]::-webkit-search-decoration {
     font-size: 13px;
     line-height: 1.42857;
     color: #838383;
-    background-color: #FFF;
+    background-color: #FFF0;
     background-image: none;
     border: 1px solid #DADADA;
     border-radius: 0px;
