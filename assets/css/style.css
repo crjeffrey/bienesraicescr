@@ -565,7 +565,7 @@ label small{
     font-weight: 300;
 } 
 .bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
-    width: 100%;
+    width: 60%;
 }
 .btn-group.open .dropdown-toggle {
     box-shadow: none;
