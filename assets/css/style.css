@@ -456,7 +456,7 @@ input[type="search"]::-webkit-search-decoration {
     color: #FFF;
     transition: all 0.3s ease 0s; 
     padding: 0px;
-
+    display: none;
 }
 .form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
     background-color: #EEEEEE;
